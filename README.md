@@ -1,4 +1,4 @@
-# Ex01 Django ORM Web Application
+# Ex02 Django ORM Web Application
 ## Date: 
 
 ## AIM
